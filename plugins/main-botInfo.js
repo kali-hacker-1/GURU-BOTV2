@@ -56,9 +56,9 @@ let infobt = `
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *GURU*
+  *sid*
 ▢ Instagram :
-  • https://instagram.com/asli_guru69
+  • https://instagram.com/akira_tendo_
 ▢ GitHub :
   • https://github.com/Guru322
 ▢ Telegram : 
