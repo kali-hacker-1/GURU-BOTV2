@@ -12,7 +12,7 @@ global.owner = [
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "918712063999" //put your bot number here
+//global.pairingNumber = "919247890502" //put your bot number here
 
 global.mods = ['916300793116','918712063999'] 
 global.prems = ['916300793116', '918712063999', '919398758484']
@@ -52,7 +52,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'ᴛʜᴇ hashirama-ʙᴏᴛ'
 global.premium = 'true'
-global.packname = '𝐻𝐴𝑆𝐻𝐼𝑅𝐴𝑀𝐴┃ᴮᴼᵀ' 
+global.packname = 'MV┃ᴮᴼᵀ' 
 global.author = '@SID' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
