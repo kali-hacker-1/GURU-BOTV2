@@ -52,7 +52,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'ᴛʜᴇ hashirama-ʙᴏᴛ'
 global.premium = 'true'
-global.packname = 'SID┃ᴮᴼᵀ' 
+global.packname = '𝐻𝐴𝑆𝐻𝐼𝑅𝐴𝑀𝐴┃ᴮᴼᵀ' 
 global.author = '@SID' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
