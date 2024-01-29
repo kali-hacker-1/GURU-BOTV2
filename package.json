@@ -1,5 +1,5 @@
 { 
-    "name": "gurubot",
+    "name": "Shadow",
     "version": "2.0.0",
     "description": "Advanced WhatsApp Bot",
     "main": "index.js",
@@ -19,8 +19,8 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "guru-bot",
-        "GURU-bot-md",
+        "Shadow-bot",
+        "Shadow-bot-md",
         "multi-device",
         "MD",
         "baileys-md"
