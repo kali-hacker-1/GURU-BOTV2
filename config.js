@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['916300793116', 'Miyamurw', true],
-  ['919948614363', 'Miyamura Gf', true], 
+  ['919182997922', 'Shadow Monarcḥ', true],
+  ['15305235521', 'BERU', true], 
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "919948614363" //put your bot number here
+//global.pairingNumber = "15305235521" //put your bot number here
 
-global.mods = ['916300793116','919948614363'] 
-global.prems = ['916300793116', '919948614363', '919398758484']
-global.allowed = ['916300793116', '919948614363', '919182063909']
+global.mods = ['919182997922','919948614363'] 
+global.prems = ['919182997922', '919948614363', '919398758484']
+global.allowed = ['919182997922', '919948614363', '919182063909']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,9 +50,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ hashirama-ʙᴏᴛ'
+global.botname = 'ᴛʜᴇ Shadow-Monarch'
 global.premium = 'true'
-global.packname = 'Miyamura┃ᴮᴼᵀ' 
+global.packname = 'Shadow┃ᴮᴼᵀ' 
 global.author = '@SID' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
